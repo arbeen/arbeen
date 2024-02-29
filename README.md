@@ -17,8 +17,11 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Arbin Shrestha!
 
-I'm a **software developer** who lives in Canada. I've worked using different technologies, frontend, backend, mobile and devOps.
+I'm a **software developer** living in Ottawa, Canada. I've worked using different technologies, frontend, backend, mobile and devOps.
 I'm currently enrolled in Post-graduate degree 🎓 in Full Stack Software Development. I have completed Bsc.CSIT(Computer Science and Information Technology) from Tribhuvan University, Nepal.
+
+- 🌱 I’m currently learning NodeJs.
+- 👯 I’m looking to collaborate on any open source projects.
 
 I thrive in collaborative environments, both sharing my skills and embracing new ones.
 
