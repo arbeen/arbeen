@@ -39,8 +39,6 @@ And get to know about my projects, research papers, and even a glimpse into my p
 
 [![Website](https://img.shields.io/badge/Website-arbinshrestha.com.np/-green)](https://arbinshrestha.com.np/)
 
-### GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=arbeen&show_icons=true&theme=radical)
 
 
 <!-- <a href="https://app.daily.dev/arbeen_stha"><img src="https://api.daily.dev/devcards/cd118e75ec234e79be39efe8fa8a9a07.png?r=7y7" width="400" alt="Arbin Shrestha's Dev Card"/></a> -->
